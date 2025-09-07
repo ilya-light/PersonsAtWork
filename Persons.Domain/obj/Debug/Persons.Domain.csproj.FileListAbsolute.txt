@@ -4,3 +4,9 @@ C:\Users\Администратор\source\repos\PersonsApp\Persons.Domain\obj\D
 C:\Users\Администратор\source\repos\PersonsApp\Persons.Domain\obj\Debug\Persons.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Администратор\source\repos\PersonsApp\Persons.Domain\obj\Debug\Persons.Domain.dll
 C:\Users\Администратор\source\repos\PersonsApp\Persons.Domain\obj\Debug\Persons.Domain.pdb
+C:\Users\Администратор\source\repos\PersonsApp\PersonsAtWork\Persons.Domain\bin\Debug\Persons.Domain.dll
+C:\Users\Администратор\source\repos\PersonsApp\PersonsAtWork\Persons.Domain\bin\Debug\Persons.Domain.pdb
+C:\Users\Администратор\source\repos\PersonsApp\PersonsAtWork\Persons.Domain\obj\Debug\Persons.Domain.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\PersonsApp\PersonsAtWork\Persons.Domain\obj\Debug\Persons.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\PersonsApp\PersonsAtWork\Persons.Domain\obj\Debug\Persons.Domain.dll
+C:\Users\Администратор\source\repos\PersonsApp\PersonsAtWork\Persons.Domain\obj\Debug\Persons.Domain.pdb

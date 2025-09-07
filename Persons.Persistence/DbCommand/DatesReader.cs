@@ -23,7 +23,7 @@ namespace Persons.Persistence.DbCommand
                     dates.Add(new Dates()
                     { 
                         Date = DateTime.Parse(reader[0].ToString()),
-                        count = int.Parse(reader[1].ToString()) 
+                        Count = int.Parse(reader[1].ToString()) 
                     });
                 }
             }

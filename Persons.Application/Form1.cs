@@ -27,17 +27,12 @@ namespace Persons.UI
             InitializeComponent();
 
             List<string> statuses = _stringsReader.GetStrings("Statuses");
-            List<string> deps = _stringsReader.GetStrings("Deps");
-            List<string> posts = _stringsReader.GetStrings("Posts");
-
             statuses.Add("");
-            deps.Add("");
-            posts.Add("");
 
             StatusComboBox.Items.AddRange(statuses.ToArray());
             StatusComboBoxDates.Items.AddRange(statuses.ToArray());
-            DepComboBox.Items.AddRange(deps.ToArray());
-            PostComboBox.Items.AddRange(posts.ToArray());
+            DepComboBox.Items.AddRange(_stringsReader.GetStrings("Deps").Append("").ToArray());
+            PostComboBox.Items.AddRange(_stringsReader.GetStrings("Posts").Append("").ToArray());
             
             SortOptionBox.Items.AddRange(typeof(Person).GetProperties().Select(p => p.Name).Append("").ToArray());
             Option.Items.AddRange(new object[] { "Принят", "Уволен" });
