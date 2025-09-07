@@ -1,0 +1,9 @@
+C:\Users\Администратор\source\repos\PersonsApp\Persons.App\bin\Debug\Persons.App.dll
+C:\Users\Администратор\source\repos\PersonsApp\Persons.App\bin\Debug\Persons.App.pdb
+C:\Users\Администратор\source\repos\PersonsApp\Persons.App\bin\Debug\Persons.Domain.dll
+C:\Users\Администратор\source\repos\PersonsApp\Persons.App\bin\Debug\Persons.Domain.pdb
+C:\Users\Администратор\source\repos\PersonsApp\Persons.App\obj\Debug\Persons.App.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\PersonsApp\Persons.App\obj\Debug\Persons.App.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\PersonsApp\Persons.App\obj\Debug\Persons..94D2BF47.Up2Date
+C:\Users\Администратор\source\repos\PersonsApp\Persons.App\obj\Debug\Persons.App.dll
+C:\Users\Администратор\source\repos\PersonsApp\Persons.App\obj\Debug\Persons.App.pdb
