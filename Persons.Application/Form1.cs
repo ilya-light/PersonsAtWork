@@ -6,6 +6,8 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
+using System.Reflection;
+using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
 namespace Persons.UI
@@ -39,6 +41,7 @@ namespace Persons.UI
 
             PersonsList.DataSource = _peopleSource;
             PersonsAtWork.DataSource = _datesSource;
+    
         }
 
         private void ShowPersonsButton_Click(object sender, EventArgs e)
