@@ -77,10 +77,10 @@ namespace Persons.UI
             string nameFilter = NameBox.Text;
 
             var filter = _people.
-                Where(p => depFilter == "" || p.Department == depFilter.ToString()).
-                Where(p => statusFilter == "" || p.Status == statusFilter.ToString()).
-                Where(p => postFilter == "" || p.Post == postFilter.ToString()).
-                Where(p => nameFilter == "" || p.Name.Contains(nameFilter));
+                Where(p => (depFilter == "" || p.Department == depFilter.ToString()) &&
+                (statusFilter == "" || p.Status == statusFilter.ToString()) &&
+                (postFilter == "" || p.Post == postFilter.ToString()) &&
+                (nameFilter == "" || p.Name.Contains(nameFilter)));
 
             return filter;
         }
